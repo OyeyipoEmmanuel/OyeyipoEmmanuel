@@ -19,6 +19,7 @@ I specialize in crafting **efficient UI/UX** with the latest web technologies.
 - 🔧 Always learning and exploring new **frontend technologies**.
 
 ## 📱 Connect with Me
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:emmasco0207@gmail.com)
 [![Whatsapp](https://img.shields.io/badge/-WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/+2348111184177)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/Emma_Leo01)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/OyeyipoEmmanuel)
