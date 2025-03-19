@@ -1,6 +1,6 @@
 # 👋 Hi there  
 
-I'm **[Your Name]**, a passionate **Frontend Developer** with **2+ years of experience** in building modern, responsive, and user-friendly web applications.  
+I'm **Oyeyipo Emmanuel**, a passionate **Frontend Developer** with **2+ years of experience** in building modern, responsive, and user-friendly web applications.  
 I specialize in crafting **efficient UI/UX** with the latest web technologies.
 
 ## 🚀 Tech Stack
@@ -19,8 +19,8 @@ I specialize in crafting **efficient UI/UX** with the latest web technologies.
 - 🔧 Always learning and exploring new **frontend technologies**.
 
 ## 📱 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/yourusername)
+[![Whatsapp](https://img.shields.io/badge/-WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/+2348111184177)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/Emma_Leo01)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/OyeyipoEmmanuel)
 
 🚀 **Let's build something amazing together!**
