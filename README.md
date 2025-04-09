@@ -32,8 +32,11 @@ I specialize in crafting **efficient UI/UX** with the latest web technologies.
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=OyeyipoEmmanuel&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies"/>
 </p>
+
+### 📌 Most Used Languages  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OyeyipoEmmanuel&layout=compact&theme=radical)
 
 ## 📱 Connect with Me
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:emmasco0207@gmail.com)
