@@ -28,7 +28,6 @@ I specialize in crafting **efficient UI/UX** with the latest web technologies.
 - 💻 I love building **scalable** and **interactive** web applications.
 - 🎨 Passionate about **UI/UX** and improving **web performance**.
 - 🔧 Always learning and exploring new **frontend technologies**.
-- '
 
 ## 📊 GitHub Stats & Badges
 <p align="center">
