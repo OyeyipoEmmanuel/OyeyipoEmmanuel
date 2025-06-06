@@ -3,6 +3,11 @@
 I'm **Oyeyipo Emmanuel**, a passionate **Frontend Developer** with **2+ years of experience** in building modern, responsive, and user-friendly web applications.  
 I specialize in crafting **efficient UI/UX** with the latest web technologies.
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=OyeyipoEmmanuel&show_icons=true&count_private=true&theme=radical&include_all_commits=true&hide_rank=true&show=stars" width="48%" alt="GitHub Stars"/>
+  <img src="https://komarev.com/ghpvc/?username=OyeyipoEmmanuel&style=flat-square&color=radical" width="48%" alt="Profile Views"/>
+</p>
+
 ## 🚀 Tech Stack
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
