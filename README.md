@@ -41,6 +41,7 @@ I specialize in crafting **efficient UI/UX** with the latest web technologies.
 
 ### 📌 Most Used Languages  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OyeyipoEmmanuel&layout=compact&theme=radical)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=EmmanuelDeLeo)](https://github.com/OyeyipoEmmanuel)
 
 ## 📱 Connect with Me
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:emmasco0207@gmail.com)
