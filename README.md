@@ -1,7 +1,7 @@
-# 👋 Hi there  
+# Yea, I'm thd right one for the job
  
 I'm **Oyeyipo Emmanuel**, a passionate **Frontend Developer** with **2+ years of experience** in building modern, responsive, and user-friendly web applications.  
-I specialize in crafting **efficient UI/UX** with the latest web technologies.
+I specialize in crafting **efficient web applications** with the latest web technologies.
 
 <p align="center" style={{marginTop:"20px", marginBottom:"20px"}}>
   <img src="https://github-readme-stats.vercel.app/api?username=OyeyipoEmmanuel&show_icons=true&count_private=true&theme=radical&include_all_commits=true&hide_rank=true&show=stars" width="48%" alt="GitHub Stars"/>
@@ -26,7 +26,7 @@ I specialize in crafting **efficient UI/UX** with the latest web technologies.
 
 ## 🌟 About Me
 - 💻 I love building **scalable** and **interactive** web applications.
-- 🎨 Passionate about **UI/UX** and improving **web performance**.
+- 🎨 Passionate about **responsiveness across all screens** and improving **web performance**.
 - 🔧 Always learning and exploring new **frontend technologies**.
 
 ## 📊 GitHub Stats & Badges
