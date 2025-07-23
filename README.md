@@ -1,6 +1,6 @@
 # Yeah, I'm the right one for the job!
  
-I'm **Oyeyipo Emmanuel**, a passionate **Frontend Developer** with **2+ years of experience** in building modern, responsive, and user-friendly web applications.  
+I'm **Oyeyipo Emmanuel**, a passionate **Frontend Engineer** with **2+ years of experience** in building modern, responsive, and user-friendly web applications.  
 I specialize in crafting **efficient web applications** with the latest web technologies.
 
 <p align="center" style={{marginTop:"20px", marginBottom:"20px"}}>
