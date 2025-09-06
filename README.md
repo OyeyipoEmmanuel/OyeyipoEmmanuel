@@ -26,7 +26,6 @@ I specialize in crafting **efficient web applications** with the latest web tech
 
 ## 📊 GitHub Stats & Badges
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=OyeyipoEmmanuel&show_icons=true&theme=radical" width="48%" alt="GitHub Stats"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=OyeyipoEmmanuel&theme=radical" width="48%" alt="GitHub Streak Stats"/>
 </p>
 
