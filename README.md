@@ -3,8 +3,17 @@
 I'm **Oyeyipo Emmanuel**, a passionate **Frontend Engineer** with **2+ years of experience** in building modern, responsive, and user-friendly web applications.  
 I specialize in crafting **efficient web applications** with the latest web technologies.
 
-### Profile Views  
-![Profile Views](https://visitor-badge.glitch.me/badge?page_id=OyeyipoEmmanuel.OyeyipoEmmanuel)
+<section>
+  <a style="text-decoration: none;" href="https://github.com/OyeyipoEmmanuel">
+    <img src="https://img.shields.io/github/followers/OyeyipoEmmanuel?logo=github&style=for-the-badge&logoColor=white&labelColor=131820&color=FFFFFF" />
+  </a>
+  <a style="text-decoration: none;" href="https://github.com/OyeyipoEmmanuel">
+    <img src="https://img.shields.io/github/stars/OyeyipoEmmanuel?affiliations=OWNER%2CCOLLABORATOR&logo=github&style=for-the-badge&logoColor=white&labelColor=131820&color=FFFFFF" />
+  </a>   
+    <a style="text-decoration: none;" href="https://github.com/OyeyipoEmmanuel">
+    <img style="border-radius:10px" src="https://hits.sh/github.com/OyeyipoEmmanuel/hits.svg?color=FFFFFF&labelColor=131820&style=for-the-badge&logo=stackblitz"/>
+  </a>
+</section>
 
 ## 🚀 Tech Stack
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
