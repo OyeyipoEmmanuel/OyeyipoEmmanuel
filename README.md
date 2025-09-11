@@ -11,7 +11,7 @@ I specialize in crafting **efficient web applications** with the latest web tech
     <img src="https://img.shields.io/github/stars/OyeyipoEmmanuel?affiliations=OWNER%2CCOLLABORATOR&logo=github&style=for-the-badge&logoColor=white&labelColor=131820&color=FFFFFF" />
   </a>   
     <a style="text-decoration: none;" href="https://github.com/OyeyipoEmmanuel">
-    <img style="border-radius:10px" src="https://hits.sh/github.com/OyeyipoEmmanuel/hits.svg?color=FFFFFF&labelColor=131820&style=for-the-badge&logo=stackblitz"/>
+    <img src="https://komarev.com/ghpvc/?username=OyeyipoEmmanuel&style=for-the-badge&label=Profile%20Views&color=FFFFFF&labelColor=131820" />
   </a>
 </section>
 
