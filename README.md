@@ -1,7 +1,6 @@
 # Yes, I'm that Emmanuel!
  
-I'm **Oyeyipo Emmanuel**, a passionate **Frontend Engineer** with **2+ years of experience** in building modern, responsive, and user-friendly web applications.  
-I specialize in crafting **efficient web applications** with the latest web technologies.
+I'm **Oyeyipo Emmanuel**, a  **Software Engineer**
 
 <section>
   <a style="text-decoration: none;" href="https://github.com/OyeyipoEmmanuel">
