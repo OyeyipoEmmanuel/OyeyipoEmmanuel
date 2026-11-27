@@ -1,66 +1,31 @@
-# Yes, I'm that Emmanuel!
- 
-I'm **Oyeyipo Emmanuel**, a  **Software Engineer**
+# Yes, I'm that Emmanuel
 
-<section>
-  <a style="text-decoration: none;" href="https://github.com/OyeyipoEmmanuel">
-    <img src="https://img.shields.io/github/followers/OyeyipoEmmanuel?logo=github&style=for-the-badge&logoColor=white&labelColor=131820&color=FFFFFF" />
-  </a>
-  <a style="text-decoration: none;" href="https://github.com/OyeyipoEmmanuel">
-    <img src="https://img.shields.io/github/stars/OyeyipoEmmanuel?affiliations=OWNER%2CCOLLABORATOR&logo=github&style=for-the-badge&logoColor=white&labelColor=131820&color=FFFFFF" />
-  </a>   
-    <a style="text-decoration: none;" href="https://github.com/OyeyipoEmmanuel">
-    <img src="https://komarev.com/ghpvc/?username=OyeyipoEmmanuel&style=for-the-badge&label=Profile%20Views&color=000000&labelColor=131820" />
-  </a>
-</section>
+Software engineer. I build web products, contribute to open source, and these days I write a lot of Python, and work on web3 DAPPS.
 
-## 🚀 Tech Stack
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Solidity](https://img.shields.io/badge/-Solidity-363636?style=flat&logo=solidity&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react)
-![Redux Toolkit](https://img.shields.io/badge/-Redux%20Toolkit-764ABC?style=flat&logo=redux)
-![TanStack Query](https://img.shields.io/badge/-TanStack%20Query-7C3AED?style=flat&logo=tanstack&logoColor=white)
-![React Router](https://img.shields.io/badge/-react--router-CA4245?style=flat&logo=react-router&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
-![ShadCN](https://img.shields.io/badge/-ShadCN%2FUI-black?style=flat&logo=shadcn&logoColor=white)
-![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat&logo=vite&logoColor=white)
-![Styled Components](https://img.shields.io/badge/-Styled%20Components-DB7093?style=flat&logo=styled-components&logoColor=white)
-![Axios](https://img.shields.io/badge/-Axios-5A29E4?style=flat&logo=axios&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
-![npm](https://img.shields.io/badge/-npm-CB3837?style=flat&logo=npm&logoColor=white)
-![Chrome DevTools](https://img.shields.io/badge/-Chrome%20DevTools-4285F4?style=flat&logo=google-chrome&logoColor=white)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+## Things I've built
 
+| Project | What it is |
+| --- | --- |
+| [gitPulse](https://github.com/OyeyipoEmmanuel) | GitHub analytics dashboard: activity, languages, and repo trends in one place |
+| [scana11y](https://www.npmjs.com/package/scana11y) | CLI accessibility scanner, published on npm |
+| [FastAPI Issue Tracker](https://github.com/OyeyipoEmmanuel) | Issue tracking API in Python/FastAPI |
 
+More on my [portfolio](https://devemmanuel.tech).
 
-## 🌟 About Me
-- 💻 I love building **scalable** and **interactive** web applications.
-- 🎨 Passionate about **responsiveness across all screens** and improving **web performance**.
-- 🔧 Always learning and exploring new **frontend technologies**.
+## Stack
 
-## 📊 GitHub Stats & Badges
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=OyeyipoEmmanuel&theme=radical" width="48%" alt="GitHub Streak Stats"/>
-</p>
+**Languages:** TypeScript, JavaScript, Rust, Python, Solidity
+**Frontend:** React, Next.js, Tailwind CSS, TanStack Query, Zustand, Redux Toolkit, shadcn/ui
+**Backend:** Node.js, Express, FastAPI, Flask, Supabase
+**Web3:** Solana, ethers.js, Solidity
+**Tooling:** Git, Vite, Figma, cargo-fuzz
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=OyeyipoEmmanuel&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies"/>
-</p>
+## Open source
 
-### 📌 Most Used Languages  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OyeyipoEmmanuel&layout=compact&theme=radical)
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=EmmanuelDeLeo)](https://github.com/OyeyipoEmmanuel)
+I like finding the unglamorous gaps in projects (fuzzing harnesses, accessibility, tooling) and fixing them. If you maintain something and need a hand, reach out.
 
+## Contact
 
-## 📱 Connect with Me
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:deleoth702@gmail.com)
-[![Whatsapp](https://img.shields.io/badge/-WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/+2348111184177)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/Emma_Leo01)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/OyeyipoEmmanuel)
+[devemmanuel.tech](https://devemmanuel.tech) · [Email](mailto:deleoth702@gmail.com) · [X / Twitter](https://twitter.com/Emma_Leo01) · [WhatsApp](https://wa.me/+2348111184177)
 
-🚀 **Let's build something amazing together!**
+<sub><img src="https://komarev.com/ghpvc/?username=OyeyipoEmmanuel&style=flat-square&label=profile+views&color=555555" /></sub>
