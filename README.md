@@ -26,6 +26,6 @@ I like finding the unglamorous gaps in projects (fuzzing harnesses, accessibilit
 
 ## Contact
 
-[devemmanuel.tech](https://devemmanuel.tech) · [Email](mailto:deleoth702@gmail.com) · [X / Twitter](https://twitter.com/Emma_Leo01) · [WhatsApp](https://wa.me/+2348111184177)
+[devemmanuel.tech](https://devemmanuel.tech) · [Email](mailto:deleoth702@gmail.com) · [X / Twitter](https://twitter.com/Emma_Leo01)
 
 <sub><img src="https://komarev.com/ghpvc/?username=OyeyipoEmmanuel&style=flat-square&label=profile+views&color=555555" /></sub>
